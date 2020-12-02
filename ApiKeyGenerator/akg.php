@@ -17,7 +17,4 @@ class ApiKey {
 
 }
 	
-$api = new ApiKey();
-echo $api->Generator(44);
-
 ?>
