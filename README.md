@@ -1,2 +1,2 @@
-# ApiKeyGenerator
-The aim of the project is to create the api key of the length you want.
+# RandomTokenGenerator
+The aim of the project is to create the random token of the length you want.
